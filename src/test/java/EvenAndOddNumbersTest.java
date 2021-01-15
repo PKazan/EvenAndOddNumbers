@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 public class EvenAndOddNumbersTest {
 
-@Test
+    @Test
     void is5even() {
     boolean result = EvenAndOddNumbers.isEvenNumber(5);
 
